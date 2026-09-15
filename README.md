@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Felipe ingeniero en informática ✨ </h1> 
+<h1 align="center">Hola 👋  Soy Felipe ingeniero en informática ✨ </h1> 
 
 <p align="left">
 <a href="https://www.linkedin.com/in/felipe-alvarez-brice%C3%B1o-0684a6208/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
