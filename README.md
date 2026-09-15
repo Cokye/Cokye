@@ -23,7 +23,7 @@ INGENIERO EN INFORMÁTICA
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,react,angular,oracle,docker,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,java,dart,flutter,py,css,html,js,react,angular,docker,git,spring,github,vscode,postman" />
   </a>
 </p>
 <br>
