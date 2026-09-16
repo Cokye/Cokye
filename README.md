@@ -13,7 +13,7 @@ INGENIERO EN INFORMÁTICA
 
 💻 Realice dos practicas la primera en TRIXION GROUP, empresa textil donde ayude a migrar una base de datos y la otra GNL QUINTERO donde realice la documentacion de un proceso y propuse una idea de solucion para un problema 
 
-📝 ️Principales roles: Desarrollador, Gestion de documentacion y organizador
+📝 ️Principales roles: Desarrollador y Gestion de documentacion
 
 <!--Intro end-->
   </p>
